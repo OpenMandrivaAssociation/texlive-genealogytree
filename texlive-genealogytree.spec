@@ -1,6 +1,6 @@
 Name:		texlive-genealogytree
 Version:	62759
-Release:	1
+Release:	2
 Summary:	Pedigree and genealogical tree diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/genealogytree

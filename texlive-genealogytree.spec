@@ -3,7 +3,7 @@ Version:	66513
 Release:	1
 Summary:	Pedigree and genealogical tree diagrams
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/genealogytree
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/genealogytree
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/genealogytree.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/genealogytree.doc.r%{version}.tar.xz
